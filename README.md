@@ -21,13 +21,19 @@ Dataset:
 - Size: 1,372 instances
 The dataset can be found at the following link: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
-Dependencies:
+Software Requirements:
 -------------
-- numpy
-- pandas
-- matplotlib
-- scikit-learn
-- MiniSom
+-Python 3.x
+
+-Required libraries: numpy, matplotlib, sklearn, and sompy. You can install these libraries using:
+    
+     pip install numpy matplotlib sklearn sompy
+
+Hardware Requirements:
+--------------
+-Any machine with a minimum of 4 GB RAM.
+
+-An IDE or text editor (e.g., PyCharm, VSCode) for running the code.
 
 Instructions:
 -------------
