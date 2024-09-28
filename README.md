@@ -1,4 +1,4 @@
-     Banknote Authentication Using Self-Organizing Map (SOM)
+    Banknote Authentication Using Self-Organizing Map (SOM)
 
 
 Problem Statement:
